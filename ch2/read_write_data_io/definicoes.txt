@@ -1,0 +1,4 @@
+■ Problem
+You want to pipe data to and from a Node program.
+■ Solution
+Use process.stdout and process.stdin
